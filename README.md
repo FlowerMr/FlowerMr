@@ -1,5 +1,7 @@
 # 💫 About Me:
-"I'm currently working on Android programming."<br>"I'm currently Learning JavaScript."<br>"I should go to the gym or write more code!
+An Android developer with a solid background in computer science with a focus on Kotlin
+,Flutter, Dart, and Python. Delivering exceptional value to fast-paced startups and agile teams.
+Organized, committed, humble, and meticulous. Fluent in English and German.
 
 
 ## 🌐 Socials:
