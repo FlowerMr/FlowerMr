@@ -1,5 +1,9 @@
 # 💫 About Me:
-"AI & Machine Learning Engineer with a strong background in Computer Science and hands-on experience in Android development. Skilled in Kotlin, Flutter, Dart, and Python, with a growing expertise in NLP, deep learning, and semantic search. Passionate about building intelligent applications that deliver real-world impact. Organized, committed, and fluent in English and German."
+"AI & Machine Learning Engineer | Final-year M.Sc. Student in Artificial Intelligence
+Passionate about developing intelligent systems with machine learning, deep learning, and explainable AI (XAI).
+Skilled in Python (PyTorch, TensorFlow, Scikit-learn), data science, and modern ML architectures (CNNs, Transformers), with hands-on experience in deploying models (TensorFlow Lite, FastAPI, Docker).
+Background in Android and cross-platform development, now focused on bridging the gap between AI research and real-world applications.
+Fluent in English and German, organized, and committed to impactful innovation."
 
 
 ## 🌐 Socials:
