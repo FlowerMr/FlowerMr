@@ -1,9 +1,23 @@
 # 💫 About Me:
-"AI & Machine Learning Engineer | Final-year M.Sc. Student in Artificial Intelligence
-Passionate about developing intelligent systems with machine learning, deep learning, and explainable AI (XAI).
-Skilled in Python (PyTorch, TensorFlow, Scikit-learn), data science, and modern ML architectures (CNNs, Transformers), with hands-on experience in deploying models (TensorFlow Lite, FastAPI, Docker).
-Background in Android and cross-platform development, now focused on bridging the gap between AI research and real-world applications.
-Fluent in English and German, organized, and committed to impactful innovation."
+AI Researcher | Machine Learning Engineer | M.Sc. in Artificial Intelligence
+
+M.Sc. graduate in Artificial Intelligence (GPA: 19.65/20) with research experience in Explainable AI (XAI), Computer Vision, Deep Learning, and Medical Image Analysis.
+
+My master's thesis focused on developing interpretable deep learning models for medical imaging using CNNs, EfficientNet, and Vision Transformers (ViTs), combined with explainability techniques such as Grad-CAM and SHAP to improve transparency, fairness, and trustworthiness in AI systems.
+
+Experienced in Python, PyTorch, TensorFlow, Scikit-learn, and the Hugging Face ecosystem, with practical expertise in machine learning, deep learning, computer vision, LLMs, Retrieval-Augmented Generation (RAG), AI agents, and workflow automation.
+
+Previously worked on Android and cross-platform software development and continue to leverage this background to bridge AI research and real-world deployment through TensorFlow Lite, FastAPI, Docker, and scalable AI applications.
+
+Research Interests:
+• Explainable and Trustworthy AI
+• Computer Vision & Medical Image Analysis
+• Deep Learning & Foundation Models
+• Large Language Models (LLMs)
+• Multimodal AI
+• AI for Healthcare
+
+Currently seeking PhD opportunities and research collaborations in Artificial Intelligence, Machine Learning, and Computer Vision.
 
 
 ## 🌐 Socials:
